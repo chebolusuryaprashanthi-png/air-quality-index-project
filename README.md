@@ -1,14 +1,16 @@
 # 🌍 Air Quality Index Monitoring & Prediction System
 
-## 📌 Project Description
+## 📌 Abstract
 
-This project focuses on monitoring real-time air quality using sensors and predicting future AQI levels using machine learning techniques.
+Air pollution is a major environmental and public health issue caused by industrialization, urbanization, and vehicle emissions. This project presents a smart system to monitor real-time air quality and predict future AQI levels using data analysis and machine learning techniques.
 
 ## 🎯 Objectives
 
-* Monitor air pollution in real-time
-* Alert users when air quality is unsafe
-* Predict future AQI trends using data analysis
+* Monitor real-time air quality using sensors
+* Detect harmful gases like CO, NO₂, and smoke
+* Calculate Air Quality Index (AQI)
+* Provide alerts using buzzer and LEDs
+* Predict future AQI using time series models
 
 ## ⚙️ Technologies Used
 
@@ -26,32 +28,33 @@ This project focuses on monitoring real-time air quality using sensors and predi
 * LEDs
 * Power Supply
 
-## 💻 Software
+## 💻 Software Tools
 
 * Arduino IDE
 * Python (Pandas, Matplotlib, Statsmodels)
 
-## 🔄 Working
+## 🔄 Working Principle
 
-* Sensor detects air quality
-* Arduino processes data and calculates AQI
-* LEDs and buzzer alert based on AQI levels
-* Python model predicts future AQI trends
+1. MQ-135 sensor detects air pollutants
+2. Arduino reads sensor data and calculates AQI
+3. LEDs indicate air quality levels
+4. Buzzer alerts when AQI is high
+5. Python model predicts future AQI trends
 
 ## 🚨 Features
 
 * Real-time monitoring
 * Alert system (LED + buzzer)
-* AQI prediction using ML
-* Low-cost and portable system
+* AQI prediction
+* Low-cost and portable
 
 ## 📊 Future Scope
 
 * Mobile app integration
 * Cloud data storage
-* Advanced ML models
+* Advanced machine learning models
 
 ## 👩‍💻 Author
 
-B.Tech CSE (AI & ML) Student | Aspiring Software Developer 🚀
-
+B.Tech CSE (AI & ML) Student
+Aspiring Software Developer 🚀

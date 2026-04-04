@@ -55,6 +55,9 @@ Air pollution is a major environmental and public health issue caused by industr
 * Advanced machine learning models
 
 ## 👩‍💻 Author
+B.Tech CSE (AI & ML) Student  
+Aspiring Software Developer 🚀  
 
-B.Tech CSE (AI & ML) Student
+## 📄 Documentation
+📥 [Download Full Project Report](documentation/AQI_Project_Report.pdf)
 Aspiring Software Developer 🚀
